@@ -1,0 +1,488 @@
+# depslib dependency file v1.0
+1332557078 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\ingame.cpp
+	"InGame.h"
+
+1331926620 c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\ingame.h
+	<SDL.h>
+	"Define.h"
+	"StateManager.h"
+	"CFPS.h"
+	"Event.h"
+	"Superficie.h"
+
+1332556768 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\ig_oninit.cpp
+	"InGame.h"
+
+1332557175 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\ig_onloop.cpp
+	"StateInGame.h"
+
+1332557176 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\ig_onrender.cpp
+	"StateInGame.h"
+
+1332690094 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\ig_onevent.cpp
+	"StateInGame.h"
+
+1330648381 c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\superficie.h
+	<SDL.h>
+	<SDL_image.h>
+
+1330648381 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\superficie.cpp
+	"Superficie.h"
+
+1330547273 c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\event.h
+	<SDL.h>
+
+1330547238 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\event.cpp
+	"Event.h"
+
+1330638537 c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\animation.h
+	<SDL.h>
+
+1331739545 c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\entity.h
+	<vector>
+	"Animation.h"
+	"Superficie.h"
+	"Area.h"
+	"Camara.h"
+	"CFPS.h"
+
+1330959393 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\animation.cpp
+	"Animation.h"
+
+1332689465 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\entity.cpp
+	"Entity.h"
+
+1332556998 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\ig_oncleanup.cpp
+	"InGame.h"
+
+1331660092 c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\define.h
+
+1331230917 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\area.cpp
+	"Area.h"
+
+1331230917 c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\area.h
+	"Map.h"
+
+1331230917 c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\map.h
+	<vector>
+	<SDL.h>
+	"Tile.h"
+	"Superficie.h"
+
+1331230593 c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\tile.h
+	"Define.h"
+
+1331230917 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\map.cpp
+	"Map.h"
+
+1330706585 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\tile.cpp
+	"Tile.h"
+
+1330968060 c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\camara.h
+	<SDL.h>
+	"Define.h"
+
+1330969207 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\camara.cpp
+	"Camara.h"
+
+1330976241 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\cfps.cpp
+	"CFPS.h"
+
+1330976253 c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\cfps.h
+	<SDL.h>
+
+1332690028 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\character.cpp
+	"Character.h"
+
+1332690176 c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\character.h
+	"Entity.h"
+
+1332690014 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\player.cpp
+	"Player.h"
+
+1331661840 c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\player.h
+	"Character.h"
+
+1331661858 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\entitycol.cpp
+	"Entity.h"
+
+1332556904 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\activate.cpp
+	"StateInGame.h"
+
+1332557700 c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\stateingame.h
+	"State.h"
+	"Area.h"
+	"Camara.h"
+	"Entity.h"
+	"Superficie.h"
+	"Player.h"
+
+1331921565 c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\state.h
+	"Event.h"
+
+1332555892 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\deactivate.cpp
+	"StateInGame.h"
+
+1332556699 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\g_oncleanup.cpp
+	"Game.h"
+
+1332556798 c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\game.h
+	<SDL.h>
+	"Define.h"
+	"StateManager.h"
+	"CFPS.h"
+	"Event.h"
+	"Superficie.h"
+
+1331835508 c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\statemanager.h
+	"State.h"
+
+1332558269 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\g_onevent.cpp
+	"Game.h"
+
+1332556082 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\g_oninit.cpp
+	"Game.h"
+
+1332556957 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\g_onloop.cpp
+	"Game.h"
+
+1332556607 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\g_onrender.cpp
+	"Game.h"
+
+1332556794 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\game.cpp
+	"Game.h"
+
+1331921566 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\state.cpp
+	"State.h"
+
+1332556230 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\stateingame.cpp
+	"StateInGame.h"
+
+1332557240 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\stateintro.cpp
+	"StateIntro.h"
+	"StateManager.h"
+
+1331926623 c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\stateintro.h
+	"State.h"
+	"Superficie.h"
+
+1332557668 source:c:\documents and settings\blackcrystal™\mis documentos\javier\games\mios\arcade\statemanager.cpp
+	"StateManager.h"
+	"StateIntro.h"
+	"StateInGame.h"
+
+1338751938 source:c:\users\usuario\my games\arcade\activate.cpp
+	"StateInGame.h"
+
+1338748546 c:\users\usuario\my games\arcade\stateingame.h
+	"State.h"
+	"Area.h"
+	"Camara.h"
+	"Entity.h"
+	"Superficie.h"
+	"Player.h"
+	"Gate.h"
+
+1331921566 c:\users\usuario\my games\arcade\state.h
+	"Event.h"
+
+1330543674 c:\users\usuario\my games\arcade\event.h
+	<SDL.h>
+
+1331227318 c:\users\usuario\my games\arcade\area.h
+	"Map.h"
+
+1331227318 c:\users\usuario\my games\arcade\map.h
+	<vector>
+	<SDL.h>
+	"Tile.h"
+	"Superficie.h"
+
+1331226994 c:\users\usuario\my games\arcade\tile.h
+	"Define.h"
+
+1336334347 c:\users\usuario\my games\arcade\define.h
+
+1330644782 c:\users\usuario\my games\arcade\superficie.h
+	<SDL.h>
+	<SDL_image.h>
+
+1330964462 c:\users\usuario\my games\arcade\camara.h
+	<SDL.h>
+	"Define.h"
+
+1338752928 c:\users\usuario\my games\arcade\entity.h
+	<vector>
+	"Animation.h"
+	"Superficie.h"
+	"Area.h"
+	"Camara.h"
+	"CFPS.h"
+
+1330634938 c:\users\usuario\my games\arcade\animation.h
+	<SDL.h>
+
+1330972654 c:\users\usuario\my games\arcade\cfps.h
+	<SDL.h>
+
+1336501618 c:\users\usuario\my games\arcade\player.h
+	"Character.h"
+
+1336491161 c:\users\usuario\my games\arcade\character.h
+	"Entity.h"
+
+1330955794 source:c:\users\usuario\my games\arcade\animation.cpp
+	"Animation.h"
+
+1331227318 source:c:\users\usuario\my games\arcade\area.cpp
+	"Area.h"
+
+1330972642 source:c:\users\usuario\my games\arcade\cfps.cpp
+	"CFPS.h"
+
+1330965608 source:c:\users\usuario\my games\arcade\camara.cpp
+	"Camara.h"
+
+1336491161 source:c:\users\usuario\my games\arcade\character.cpp
+	"Character.h"
+
+1332555894 source:c:\users\usuario\my games\arcade\deactivate.cpp
+	"StateInGame.h"
+
+1338752928 source:c:\users\usuario\my games\arcade\entity.cpp
+	"Entity.h"
+
+1331661860 source:c:\users\usuario\my games\arcade\entitycol.cpp
+	"Entity.h"
+
+1330543640 source:c:\users\usuario\my games\arcade\event.cpp
+	"Event.h"
+
+1332556700 source:c:\users\usuario\my games\arcade\g_oncleanup.cpp
+	"Game.h"
+
+1332556800 c:\users\usuario\my games\arcade\game.h
+	<SDL.h>
+	"Define.h"
+	"StateManager.h"
+	"CFPS.h"
+	"Event.h"
+	"Superficie.h"
+
+1331835510 c:\users\usuario\my games\arcade\statemanager.h
+	"State.h"
+
+1332558270 source:c:\users\usuario\my games\arcade\g_onevent.cpp
+	"Game.h"
+
+1332556084 source:c:\users\usuario\my games\arcade\g_oninit.cpp
+	"Game.h"
+
+1332556958 source:c:\users\usuario\my games\arcade\g_onloop.cpp
+	"Game.h"
+
+1332556608 source:c:\users\usuario\my games\arcade\g_onrender.cpp
+	"Game.h"
+
+1332556796 source:c:\users\usuario\my games\arcade\game.cpp
+	"Game.h"
+
+1336511565 source:c:\users\usuario\my games\arcade\ig_onevent.cpp
+	"StateInGame.h"
+
+1332557176 source:c:\users\usuario\my games\arcade\ig_onloop.cpp
+	"StateInGame.h"
+
+1332557178 source:c:\users\usuario\my games\arcade\ig_onrender.cpp
+	"StateInGame.h"
+
+1331227318 source:c:\users\usuario\my games\arcade\map.cpp
+	"Map.h"
+
+1338752928 source:c:\users\usuario\my games\arcade\player.cpp
+	"Player.h"
+
+1331921568 source:c:\users\usuario\my games\arcade\state.cpp
+	"State.h"
+
+1332556232 source:c:\users\usuario\my games\arcade\stateingame.cpp
+	"StateInGame.h"
+
+1332557242 source:c:\users\usuario\my games\arcade\stateintro.cpp
+	"StateIntro.h"
+	"StateManager.h"
+
+1331926624 c:\users\usuario\my games\arcade\stateintro.h
+	"State.h"
+	"Superficie.h"
+
+1332557670 source:c:\users\usuario\my games\arcade\statemanager.cpp
+	"StateManager.h"
+	"StateIntro.h"
+	"StateInGame.h"
+
+1330644782 source:c:\users\usuario\my games\arcade\superficie.cpp
+	"Superficie.h"
+
+1330702986 source:c:\users\usuario\my games\arcade\tile.cpp
+	"Tile.h"
+
+1338753020 source:c:\users\usuario\my games\arcade\gate.cpp
+	"Gate.h"
+
+1338752395 c:\users\usuario\my games\arcade\gate.h
+	"Entity.h"
+
+1331227318 source:c:\users\rafael\desktop\arcade\area.cpp
+	"Area.h"
+
+1331227318 c:\users\rafael\desktop\arcade\area.h
+	"Map.h"
+
+1331227318 c:\users\rafael\desktop\arcade\map.h
+	<vector>
+	<SDL.h>
+	"Tile.h"
+	"Superficie.h"
+
+1331226994 c:\users\rafael\desktop\arcade\tile.h
+	"Define.h"
+
+1336334348 c:\users\rafael\desktop\arcade\define.h
+
+1330644782 c:\users\rafael\desktop\arcade\superficie.h
+	<SDL.h>
+	<SDL_image.h>
+
+1330972642 source:c:\users\rafael\desktop\arcade\cfps.cpp
+	"CFPS.h"
+
+1330972654 c:\users\rafael\desktop\arcade\cfps.h
+	<SDL.h>
+
+1336491162 source:c:\users\rafael\desktop\arcade\character.cpp
+	"Character.h"
+
+1342133808 c:\users\rafael\desktop\arcade\character.h
+	"Entity.h"
+
+1338752930 c:\users\rafael\desktop\arcade\entity.h
+	<vector>
+	"Animation.h"
+	"Superficie.h"
+	"Area.h"
+	"Camara.h"
+	"CFPS.h"
+
+1330634938 c:\users\rafael\desktop\arcade\animation.h
+	<SDL.h>
+
+1330964462 c:\users\rafael\desktop\arcade\camara.h
+	<SDL.h>
+	"Define.h"
+
+1332555894 source:c:\users\rafael\desktop\arcade\deactivate.cpp
+	"StateInGame.h"
+
+1338748548 c:\users\rafael\desktop\arcade\stateingame.h
+	"State.h"
+	"Area.h"
+	"Camara.h"
+	"Entity.h"
+	"Superficie.h"
+	"Player.h"
+	"Gate.h"
+
+1331921566 c:\users\rafael\desktop\arcade\state.h
+	"Event.h"
+
+1330543674 c:\users\rafael\desktop\arcade\event.h
+	<SDL.h>
+
+1336501620 c:\users\rafael\desktop\arcade\player.h
+	"Character.h"
+
+1338752396 c:\users\rafael\desktop\arcade\gate.h
+	"Entity.h"
+
+1338752930 source:c:\users\rafael\desktop\arcade\entity.cpp
+	"Entity.h"
+
+1331661860 source:c:\users\rafael\desktop\arcade\entitycol.cpp
+	"Entity.h"
+
+1330543640 source:c:\users\rafael\desktop\arcade\event.cpp
+	"Event.h"
+
+1332556700 source:c:\users\rafael\desktop\arcade\g_oncleanup.cpp
+	"Game.h"
+
+1332556800 c:\users\rafael\desktop\arcade\game.h
+	<SDL.h>
+	"Define.h"
+	"StateManager.h"
+	"CFPS.h"
+	"Event.h"
+	"Superficie.h"
+
+1331835510 c:\users\rafael\desktop\arcade\statemanager.h
+	"State.h"
+
+1332558270 source:c:\users\rafael\desktop\arcade\g_onevent.cpp
+	"Game.h"
+
+1332556084 source:c:\users\rafael\desktop\arcade\g_oninit.cpp
+	"Game.h"
+
+1332556958 source:c:\users\rafael\desktop\arcade\g_onloop.cpp
+	"Game.h"
+
+1332556608 source:c:\users\rafael\desktop\arcade\g_onrender.cpp
+	"Game.h"
+
+1332556796 source:c:\users\rafael\desktop\arcade\game.cpp
+	"Game.h"
+
+1338753022 source:c:\users\rafael\desktop\arcade\gate.cpp
+	"Gate.h"
+
+1336511566 source:c:\users\rafael\desktop\arcade\ig_onevent.cpp
+	"StateInGame.h"
+
+1332557176 source:c:\users\rafael\desktop\arcade\ig_onloop.cpp
+	"StateInGame.h"
+
+1332557178 source:c:\users\rafael\desktop\arcade\ig_onrender.cpp
+	"StateInGame.h"
+
+1331227318 source:c:\users\rafael\desktop\arcade\map.cpp
+	"Map.h"
+
+1338752930 source:c:\users\rafael\desktop\arcade\player.cpp
+	"Player.h"
+
+1331921568 source:c:\users\rafael\desktop\arcade\state.cpp
+	"State.h"
+
+1332556232 source:c:\users\rafael\desktop\arcade\stateingame.cpp
+	"StateInGame.h"
+
+1332557242 source:c:\users\rafael\desktop\arcade\stateintro.cpp
+	"StateIntro.h"
+	"StateManager.h"
+
+1331926624 c:\users\rafael\desktop\arcade\stateintro.h
+	"State.h"
+	"Superficie.h"
+
+1332557670 source:c:\users\rafael\desktop\arcade\statemanager.cpp
+	"StateManager.h"
+	"StateIntro.h"
+	"StateInGame.h"
+
+1330644782 source:c:\users\rafael\desktop\arcade\superficie.cpp
+	"Superficie.h"
+
+1330702986 source:c:\users\rafael\desktop\arcade\tile.cpp
+	"Tile.h"
+

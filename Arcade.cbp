@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Arcade" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="States\;ComonClasses\Source\;ComonClasses\Header\;States\Intro\;States\InGame\;Game\;Entities\Characters\;Entities\Things\;Entities\Characters\Baddies\;Entities\;Entities\Gates\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Arcade" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Arcade" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL_image" />
+			<Add library="SDL" />
+		</Linker>
+		<Unit filename="Activate.cpp">
+			<Option virtualFolder="States\InGame\" />
+		</Unit>
+		<Unit filename="Animation.cpp">
+			<Option virtualFolder="ComonClasses\Source\" />
+		</Unit>
+		<Unit filename="Animation.h">
+			<Option virtualFolder="ComonClasses\Header\" />
+		</Unit>
+		<Unit filename="Area.cpp">
+			<Option virtualFolder="ComonClasses\Source\" />
+		</Unit>
+		<Unit filename="Area.h">
+			<Option virtualFolder="ComonClasses\Header\" />
+		</Unit>
+		<Unit filename="CFPS.cpp">
+			<Option virtualFolder="ComonClasses\Source\" />
+		</Unit>
+		<Unit filename="CFPS.h">
+			<Option virtualFolder="ComonClasses\Header\" />
+		</Unit>
+		<Unit filename="Camara.cpp">
+			<Option virtualFolder="ComonClasses\Source\" />
+		</Unit>
+		<Unit filename="Camara.h">
+			<Option virtualFolder="ComonClasses\Header\" />
+		</Unit>
+		<Unit filename="Character.cpp">
+			<Option virtualFolder="Entities\Characters\" />
+		</Unit>
+		<Unit filename="Character.h">
+			<Option virtualFolder="Entities\Characters\" />
+		</Unit>
+		<Unit filename="Deactivate.cpp">
+			<Option virtualFolder="States\InGame\" />
+		</Unit>
+		<Unit filename="Define.h">
+			<Option virtualFolder="ComonClasses\Header\" />
+		</Unit>
+		<Unit filename="Entity.cpp">
+			<Option virtualFolder="Entities\" />
+		</Unit>
+		<Unit filename="Entity.h">
+			<Option virtualFolder="Entities\" />
+		</Unit>
+		<Unit filename="EntityCol.cpp">
+			<Option virtualFolder="Entities\" />
+		</Unit>
+		<Unit filename="Event.cpp">
+			<Option virtualFolder="ComonClasses\Source\" />
+		</Unit>
+		<Unit filename="Event.h">
+			<Option virtualFolder="ComonClasses\Header\" />
+		</Unit>
+		<Unit filename="G_OnCleanup.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="G_OnEvent.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="G_OnInit.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="G_OnLoop.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="G_OnRender.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Game.cpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Game.h">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Gate.cpp">
+			<Option virtualFolder="Entities\Gates\" />
+		</Unit>
+		<Unit filename="Gate.h">
+			<Option virtualFolder="Entities\Gates\" />
+		</Unit>
+		<Unit filename="IG_OnEvent.cpp">
+			<Option virtualFolder="States\InGame\" />
+		</Unit>
+		<Unit filename="IG_OnLoop.cpp">
+			<Option virtualFolder="States\InGame\" />
+		</Unit>
+		<Unit filename="IG_OnRender.cpp">
+			<Option virtualFolder="States\InGame\" />
+		</Unit>
+		<Unit filename="Map.cpp">
+			<Option virtualFolder="ComonClasses\Source\" />
+		</Unit>
+		<Unit filename="Map.h">
+			<Option virtualFolder="ComonClasses\Header\" />
+		</Unit>
+		<Unit filename="Player.cpp">
+			<Option virtualFolder="Entities\Characters\" />
+		</Unit>
+		<Unit filename="Player.h">
+			<Option virtualFolder="Entities\Characters\" />
+		</Unit>
+		<Unit filename="State.cpp">
+			<Option virtualFolder="States\" />
+		</Unit>
+		<Unit filename="State.h">
+			<Option virtualFolder="States\" />
+		</Unit>
+		<Unit filename="StateInGame.cpp">
+			<Option virtualFolder="States\InGame\" />
+		</Unit>
+		<Unit filename="StateInGame.h">
+			<Option virtualFolder="States\InGame\" />
+		</Unit>
+		<Unit filename="StateIntro.cpp">
+			<Option virtualFolder="States\Intro\" />
+		</Unit>
+		<Unit filename="StateIntro.h">
+			<Option virtualFolder="States\Intro\" />
+		</Unit>
+		<Unit filename="StateManager.cpp">
+			<Option virtualFolder="States\" />
+		</Unit>
+		<Unit filename="StateManager.h">
+			<Option virtualFolder="States\" />
+		</Unit>
+		<Unit filename="Superficie.cpp">
+			<Option virtualFolder="ComonClasses\Source\" />
+		</Unit>
+		<Unit filename="Superficie.h">
+			<Option virtualFolder="ComonClasses\Header\" />
+		</Unit>
+		<Unit filename="Tile.cpp">
+			<Option virtualFolder="ComonClasses\Source\" />
+		</Unit>
+		<Unit filename="Tile.h">
+			<Option virtualFolder="ComonClasses\Header\" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

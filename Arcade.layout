@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Activate.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="103" topLine="15" />
+	</File>
+	<File name="Animation.cpp" open="1" top="0" tabpos="27">
+		<Cursor position="716" topLine="12" />
+	</File>
+	<File name="Area.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="219" topLine="77" />
+	</File>
+	<File name="Area.h" open="1" top="0" tabpos="12">
+		<Cursor position="636" topLine="0" />
+	</File>
+	<File name="CFPS.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="297" topLine="0" />
+	</File>
+	<File name="CFPS.h" open="0" top="0" tabpos="6">
+		<Cursor position="175" topLine="0" />
+	</File>
+	<File name="Camara.cpp" open="1" top="0" tabpos="28">
+		<Cursor position="240" topLine="0" />
+	</File>
+	<File name="Camara.h" open="1" top="0" tabpos="29">
+		<Cursor position="232" topLine="0" />
+	</File>
+	<File name="Character.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="743" topLine="41" />
+	</File>
+	<File name="Character.h" open="1" top="0" tabpos="36">
+		<Cursor position="204" topLine="0" />
+	</File>
+	<File name="Deactivate.cpp" open="1" top="0" tabpos="41">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Define.h" open="1" top="0" tabpos="3">
+		<Cursor position="131" topLine="0" />
+	</File>
+	<File name="Entity.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="4287" topLine="263" />
+	</File>
+	<File name="Entity.h" open="1" top="0" tabpos="7">
+		<Cursor position="573" topLine="33" />
+	</File>
+	<File name="EntityCol.cpp" open="1" top="0" tabpos="30">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Event.cpp" open="1" top="0" tabpos="17">
+		<Cursor position="2158" topLine="193" />
+	</File>
+	<File name="Event.h" open="1" top="0" tabpos="18">
+		<Cursor position="40" topLine="0" />
+	</File>
+	<File name="G_OnCleanup.cpp" open="1" top="0" tabpos="31">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="G_OnEvent.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="123" topLine="0" />
+	</File>
+	<File name="G_OnInit.cpp" open="1" top="0" tabpos="38">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="G_OnLoop.cpp" open="1" top="0" tabpos="39">
+		<Cursor position="84" topLine="0" />
+	</File>
+	<File name="Game.cpp" open="1" top="0" tabpos="37">
+		<Cursor position="210" topLine="12" />
+	</File>
+	<File name="Game.h" open="1" top="0" tabpos="9">
+		<Cursor position="0" topLine="8" />
+	</File>
+	<File name="Gate.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="1664" topLine="0" />
+	</File>
+	<File name="Gate.h" open="1" top="0" tabpos="6">
+		<Cursor position="799" topLine="11" />
+	</File>
+	<File name="IG_OnEvent.cpp" open="1" top="0" tabpos="32">
+		<Cursor position="900" topLine="0" />
+	</File>
+	<File name="IG_OnLoop.cpp" open="1" top="0" tabpos="24">
+		<Cursor position="518" topLine="0" />
+	</File>
+	<File name="IG_OnRender.cpp" open="1" top="0" tabpos="33">
+		<Cursor position="44" topLine="0" />
+	</File>
+	<File name="Map.cpp" open="1" top="0" tabpos="16">
+		<Cursor position="1695" topLine="55" />
+	</File>
+	<File name="Map.h" open="1" top="0" tabpos="13">
+		<Cursor position="310" topLine="0" />
+	</File>
+	<File name="Player.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="915" topLine="9" />
+	</File>
+	<File name="Player.h" open="1" top="0" tabpos="35">
+		<Cursor position="267" topLine="24" />
+	</File>
+	<File name="State.cpp" open="1" top="0" tabpos="20">
+		<Cursor position="73" topLine="0" />
+	</File>
+	<File name="State.h" open="1" top="0" tabpos="26">
+		<Cursor position="347" topLine="0" />
+	</File>
+	<File name="StateInGame.cpp" open="1" top="0" tabpos="34">
+		<Cursor position="200" topLine="0" />
+	</File>
+	<File name="StateInGame.h" open="1" top="0" tabpos="25">
+		<Cursor position="383" topLine="11" />
+	</File>
+	<File name="StateIntro.cpp" open="1" top="0" tabpos="21">
+		<Cursor position="446" topLine="0" />
+	</File>
+	<File name="StateIntro.h" open="1" top="0" tabpos="22">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="StateManager.cpp" open="1" top="0" tabpos="19">
+		<Cursor position="345" topLine="0" />
+	</File>
+	<File name="StateManager.h" open="1" top="0" tabpos="40">
+		<Cursor position="343" topLine="2" />
+	</File>
+	<File name="Superficie.cpp" open="1" top="0" tabpos="15">
+		<Cursor position="248" topLine="9" />
+	</File>
+	<File name="Superficie.h" open="1" top="0" tabpos="23">
+		<Cursor position="68" topLine="0" />
+	</File>
+	<File name="Tile.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Tile.h" open="0" top="0" tabpos="8">
+		<Cursor position="252" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
