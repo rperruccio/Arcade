@@ -1,5 +1,5 @@
 #include "StateInGame.h"
-
+//otra prueba lala
 void StateInGame::OnActivate()
 {
     if (Area::areaControl.OnLoad("./Maps/1.area") == NULL)
