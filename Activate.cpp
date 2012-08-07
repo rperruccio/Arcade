@@ -28,7 +28,7 @@ void StateInGame::OnActivate()
     if ((gate2->OnLoad("./Imagenes/Gate.png", 20, 60, 1)) == NULL)
         return;
 
-    gate2 -> x = 980;
+    gate2 -> x = 981;
     gate2 -> y = 20;
     gate2 -> SetColFrame(0);
     gate2 -> Set(1, 1);
